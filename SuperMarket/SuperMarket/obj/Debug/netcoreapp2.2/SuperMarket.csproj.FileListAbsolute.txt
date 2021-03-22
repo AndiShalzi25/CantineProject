@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.deps.json
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.runtimeconfig.json
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.runtimeconfig.dev.json
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.dll
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.AssemblyInfo.cs
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.genruntimeconfig.cache
+C:\Users\User\source\repos\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.pdb
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.dll
+C:\Users\User\source\repos\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.pdb
